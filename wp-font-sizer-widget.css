@@ -3,5 +3,12 @@ body, html, p{
 }
 .wp_widget_plugin_textarea{
     font-size: 1em !important;
-    margin-bottom: 0;
+    margin: 0 !important;
+    line-height: 1 !important;
+}
+.extrasmall{
+    padding: 3px 10px;
+    letter-spacing: 0;
+    margin: 0;
+    line-height: 1;
 }
